@@ -1,3 +1,6 @@
 [submodule "DOS76"]
 	path = DOS76
 	url = https://github.com/quiode/DOS76
+[submodule "DARCH"]
+	path = DARCH
+	url = https://github.com/quiode/DARCH
