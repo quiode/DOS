@@ -4,3 +4,6 @@
 [submodule "DARCH"]
 	path = DARCH
 	url = https://github.com/quiode/DARCH
+[submodule "OS-Template"]
+	path = OS-Template
+	url = https://github.com/quiode/OS-Template
