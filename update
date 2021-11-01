@@ -1,13 +1,13 @@
 #!/bin/bash
 echo 'updating DOS76...'
-cd DOS76
+cd DOS76 || exit
 git pull https://github.com/quiode/DOS76 --no-rebase
 echo 'updated DOS76'
 
-#echo 'updating DARCH...'
-#cd ../DARCH
-#git pull https://github.com/quiode/DARCH --no-rebase
-#echo 'updated DARCH'
+echo 'updating DARCH...'
+cd ../DARCH || exit
+git pull https://github.com/quiode/DARCH --no-rebase
+echo 'updated DARCH'
 
 echo 'updating Template...'
 git pull https://github.com/quiode/OS-Template --no-rebase
