@@ -1,9 +1,12 @@
 [submodule "DOS76"]
-	path = DOS76
-	url = https://github.com/quiode/DOS76
+path = DOS76
+url = https://github.com/quiode/DOS76
+branch = main
 [submodule "OS-Template"]
-	path = OS-Template
-	url = https://github.com/quiode/OS-Template
+path = OS-Template
+url = https://github.com/quiode/OS-Template
+branch = main
 [submodule "DARCH"]
-	path = DARCH
-	url = https://github.com/quiode/DARCH
+path = DARCH
+url = https://github.com/quiode/DARCH
+branch = main
